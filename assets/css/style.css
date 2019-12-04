@@ -1,3 +1,25 @@
-This is a test for my new branch.
+h1 
+{
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    padding: 25px;
+    margin: 0px;
+}
 
-this is test number two. 
+header
+{
+    background-color: grey;
+    height: 75px;
+}
+
+.wrapper
+{
+    width: 70%;
+    margin: 0 auto;
+
+}
+
